@@ -1,0 +1,4 @@
+accuracy for C:\Users\sbuzdugan\Desktop\me\audioFingerprinting\audio_samples\noisy_samples: 89.00%
+no sample files found in C:\Users\sbuzdugan\Desktop\me\audioFingerprinting\audio_samples\noisy_filtered_samples.
+no sample files found in C:\Users\sbuzdugan\Desktop\me\audioFingerprinting\audio_samples\filtered_samples.
+no sample files found in C:\Users\sbuzdugan\Desktop\me\audioFingerprinting\audio_samples\clean_samples.
